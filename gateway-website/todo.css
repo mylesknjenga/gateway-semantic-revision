@@ -1,0 +1,54 @@
+.todoTitle {
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: solid 4px #f56262;
+    width: 40%;
+    margin: 40px auto;
+}
+
+
+.wildlife h2 {
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 90%;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: 2fr 3fr 1fr;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.container div {
+    border: solid #5c5c5c 1.5px;
+    
+}
+
+.container img {
+    height: 300px;
+    padding: 20px 10px;
+    
+}
+
+.wildlifeImage {
+    text-align: center;
+}
+.wildlifeContent {
+    padding: 20px;
+    text-align: justify;
+}
+.extra {
+    padding: 20px;
+    
+}
+
+.extraBtn {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px 12px;
+    margin-top: 15px;
+}
